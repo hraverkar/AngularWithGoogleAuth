@@ -1,2 +1,0 @@
-# AngularWithGoogleAuth
-# AngularWithGoogleAuth
